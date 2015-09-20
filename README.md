@@ -28,7 +28,7 @@ system in a larger project.
 
   [1]: http://sel4.systems/
   [2]: http://sel4.systems/FAQ/
-  [3]: http://sel4.systems/Contributing/
+  [3]: http://sel4.systems/Community/Contributing/
   [4]: https://zenodo.org/badge/doi/10.5281/zenodo.11247.png
 
 Repository Overview
